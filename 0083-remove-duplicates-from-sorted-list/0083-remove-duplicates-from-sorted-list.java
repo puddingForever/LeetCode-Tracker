@@ -13,7 +13,7 @@ class Solution {
        ListNode list = head;
         
         while(list != null){
-            if(list.next == null){
+            if(list.next == null ){
                 break;
             }
             
@@ -25,7 +25,6 @@ class Solution {
         }
         
         return head;
-        
         
     }
 }
