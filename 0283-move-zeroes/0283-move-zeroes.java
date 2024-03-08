@@ -10,8 +10,7 @@ class Solution {
      }
         
      while(posNum < nums.length){
-         nums[posNum] = 0;
-         posNum++;
+         nums[posNum++] = 0;
      }
         
     }
