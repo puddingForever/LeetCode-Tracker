@@ -15,7 +15,7 @@ class Solution {
         
         
         for(int num : char_set){
-            if(Math.abs(num) > 0) return false;
+            if(num > 0) return false;
         }
         
         return true;
