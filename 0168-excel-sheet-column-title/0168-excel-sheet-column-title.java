@@ -1,15 +1,17 @@
 class Solution {
     public String convertToTitle(int columnNumber) {
         
-        StringBuilder result = new StringBuilder();
+       StringBuilder ans = new StringBuilder();
         
-        while(columnNumber > 0 ){
+        while(columnNumber > 0){
             columnNumber--;
-            result.insert(0,(char)('A'+columnNumber%26));
-            columnNumber /= 26;
+            ans.append((char)((columnNumber)%26 + 'A'));
+            columnNumber = (columnNumber)/26;
         }
         
-        return result.toString();
+        
+        return ans.reverse().toString();
+        
         
     }
 }
