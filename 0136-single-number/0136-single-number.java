@@ -1,23 +1,26 @@
 class Solution {
     public int singleNumber(int[] nums) {
         
-        HashMap<Integer,Boolean> map = new HashMap();
-        
-        for(int num : nums){
-            if(map.containsKey(num)){
-                map.put(num,true);
-            }else{
-                map.put(num,false);
-            }
-        }
-        
+        HashMap<Integer,Boolean> numsMap = new HashMap();
         int result = 0;
+        
         for(int num : nums){
-            if(map.get(num) == false){
-                result = num;
+            
+            if(numsMap.get(num) != null && numsMap.get(num)){
+                numsMap.put(num,false);
+            }else{
+                numsMap.put(num,true);
+            }
+            
+        }    
+
+        for(int key : numsMap.keySet()){
+            if(numsMap.get(key)){
+                result = key;
             }
         }
-        
+      
         return result;
+        
     }
 }
