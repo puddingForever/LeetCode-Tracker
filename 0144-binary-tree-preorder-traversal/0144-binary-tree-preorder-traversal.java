@@ -15,27 +15,27 @@
  */
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-         ArrayList<Integer> results = new ArrayList();
         
-        if(root == null) return results;
+        List<Integer> preorder = new ArrayList();
         
-        class Traversal{
-            public Traversal(TreeNode root){
-                if(root != null){
-                    results.add(root.val);
+        if(root == null)  return preorder;
+        
+        Stack<TreeNode> stack = new Stack();
+        stack.push(root);
+        TreeNode curr = root;
+        while(!stack.isEmpty()){
+            curr = stack.pop();
+            while(curr != null ){
+                preorder.add(curr.val);
+                if(curr.right != null){
+                    stack.push(curr.right);
                 }
-                if(root.left != null){
-                    new Traversal(root.left);
-                }
-                if(root.right != null){
-                    new Traversal(root.right);
-                }
+                curr = curr.left;
+                
             }
         }
         
-        new Traversal(root);
-        
-        return results;
+        return preorder;
         
     }
 }
