@@ -1,28 +1,23 @@
 class Solution {
     public int maxProfit(int[] prices) {
         
-        // cant make transaction 
         if(prices.length == 1) return 0;
         
-       
+        int left = 0;
         int profit = 0;
-        int buyStock = 0 ;
-        int sellStock = 1;
         
-        while(sellStock < prices.length){
-         
-          if(prices[sellStock]> prices[buyStock]){
-              profit = Math.max(profit,prices[sellStock] - prices[buyStock]);
-          }else{
-            buyStock = sellStock;
-          }
-            
-          sellStock++;
-            
+       for(int right = 1; right < prices.length; right++ ){
+           if(prices[right] > prices[left]){
+               if(prices[right] - prices[left] > profit){
+                   profit = prices[right] - prices[left];
+               }
+           }else{
+              left = right;
+           }
         }
         
         return profit;
         
-     
     }
 }
+
