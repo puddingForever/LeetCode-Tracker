@@ -1,23 +1,19 @@
 class Solution {
-    public int maxProfit(int[] prices) {
+    public int maxProfit(int[] prices) { 
         
-      if(prices.length == 1) return 0;
-      
-      int left = 0;
-      int profit = 0;
+       int profit = 0;
+       int buyDay = 0;
         
-      for(int right = 1; right < prices.length; right++){
-            if(prices[right] > prices[left]){
-                profit = Math.max(profit,prices[right]-prices[left]);
-            }else{
-                left = right;
-            }    
-      }
+       for(int sellDay=1; sellDay<prices.length; sellDay++){
+           if(prices[buyDay] >= prices[sellDay]){ 
+               buyDay = sellDay;
+           }
+            profit = Math.max(profit,prices[sellDay] - prices[buyDay]);
+       }
         
         return profit;
-        
+   
     }
 }
 
-// O(n) O(1)
 
