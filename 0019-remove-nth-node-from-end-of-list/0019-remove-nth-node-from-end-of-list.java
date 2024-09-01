@@ -13,8 +13,6 @@ class Solution {
         
         if( (head.next == null && n == 1)  || head == null) return null;
         
-        ListNode dummy = new ListNode(-1);
-        dummy.next = head;
         ListNode p1 = head;
         ListNode prev = head;
 
