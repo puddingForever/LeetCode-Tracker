@@ -5,38 +5,20 @@
  */
 var isAnagram = function(s, t) {
 
-    var newMap = new Map();
-    var firstArr = s.split("");
+    if(s.length !== t.length ) return false;
 
-    for(var i=0; i<firstArr.length; i++){
-        if(newMap.has(firstArr[i])){
-            var cnt = newMap.get(firstArr[i]);
-            newMap.set(firstArr[i],++cnt);
-        }else{
-            newMap.set(firstArr[i],1);
+    var charArr = new Array(26).fill(0);
+    for(var i=0; i<s.length; i++){
+        charArr[s.charCodeAt(i) - 'a'.charCodeAt(0)]++;
+        charArr[t.charCodeAt(i) - 'a'.charCodeAt(0)]--;
+    }
+
+    for(var i=0; i< charArr.length; i++){
+        if(charArr[i] !== 0){
+            return false;
         }
     }
 
-    var secondArr = t.split("");
-
-    if(firstArr.length !== secondArr.length) return false;
-
-    var result = true;
-    for(var i=0; i<secondArr.length; i++){
-        if(newMap.has(secondArr[i])){
-            var cnt = newMap.get(secondArr[i]);
-            newMap.set(secondArr[i],--cnt);
-        }else if(!newMap.has(secondArr[i])){
-           result = false;
-           break;
-        }
-    }
-
-   
-    newMap.forEach(val => {
-        if(val !== 0) result = false;
-    })
-
-    return result;
+    return true;
 
 };
