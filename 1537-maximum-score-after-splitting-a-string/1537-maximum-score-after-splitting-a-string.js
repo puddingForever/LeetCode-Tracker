@@ -3,25 +3,28 @@
  * @return {number}
  */
 var maxScore = function(s) {
+    var hana = 0;
+    var young = 0;
+    var best = -1;
+    // get left 
+   for(var i=0; i<s.length-1; i++){
+        if(s.charAt(i) === '0'){
+           young++;
+        }else if(s.charAt(i) === '1'){
+            hana++;
+        } // 11100  ->  11111 - 00  => 111 
+        // 00 11111
 
-    var ones = 0;
-    var zeros = 0;
-    var max = -1;
-
-    for(var i=0; i<s.length-1; i++){
-        if(s.charAt(i) === '1'){
-            ones++;
-        }else{
-            zeros++;
-        }
-        max = Math.max(max , zeros-ones);
-    }
-
+        // FIND WHEN YOUNG IS BIGGER THAN HANA 
+        // WHEN HANA GETS BIGGER IT RETURNS NEGATIVE 
+        // THERE FOR , Math.max(best, young - hana ) will return best possible num 
+        best = Math.max(best, young-hana); 
+       
+   }
+    // get right 
     if(s.charAt(s.length-1) === '1'){
-        ones++;
+        hana++;
     }
-
-    return max + ones;
-
-    
+    // return max 
+    return best + hana ;
 };
