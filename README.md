@@ -16,8 +16,13 @@ My LeetCode traces
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
