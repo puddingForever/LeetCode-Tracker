@@ -12,6 +12,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -32,6 +33,7 @@ My LeetCode traces
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -41,5 +43,6 @@ My LeetCode traces
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
