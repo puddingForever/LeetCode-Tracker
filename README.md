@@ -34,6 +34,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
@@ -45,6 +46,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
