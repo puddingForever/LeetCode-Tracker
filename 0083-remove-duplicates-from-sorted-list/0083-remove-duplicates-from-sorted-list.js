@@ -10,17 +10,24 @@
  * @return {ListNode}
  */
 var deleteDuplicates = function(head) {
-    if(!head) return head;
 
-    var curr = head;
-    while(curr.next){
-       if(curr.val === curr.next.val){
-        curr.next = curr.next.next;
-       }else{
-          curr = curr.next;
-       }
-     
+   var dummy = new ListNode(0);
+   dummy.next = head;
+   prev = dummy; // cuz dummy should always point to the front  
+   var temp = head;
+   var mySet = new Set();
+   if(!head) return null;
+
+   while(temp){
+    if(mySet.has(temp.val)){
+        prev.next = temp.next;
+    }else{
+        mySet.add(temp.val);
+        prev = temp;
     }
+    temp = temp.next;
+   }
 
-    return head;
+   return dummy.next;
+
 };
