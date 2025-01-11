@@ -46,6 +46,7 @@ My LeetCode traces
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0086-partition-list) |
@@ -53,4 +54,12 @@ My LeetCode traces
 | [0237-delete-node-in-a-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
