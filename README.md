@@ -13,6 +13,7 @@ My LeetCode traces
 | ------- |
 | [0001-two-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -36,6 +37,7 @@ My LeetCode traces
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
@@ -52,6 +54,7 @@ My LeetCode traces
 | [0083-remove-duplicates-from-sorted-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
