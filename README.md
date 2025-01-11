@@ -38,6 +38,7 @@ My LeetCode traces
 | [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +51,5 @@ My LeetCode traces
 | [0086-partition-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
