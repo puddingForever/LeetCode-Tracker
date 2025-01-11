@@ -15,25 +15,25 @@ var addTwoNumbers = function(l1, l2) {
     return addNum(l1,l2,0);
 };
 
+
 function addNum(l1,l2,carry){
+   
+    if(!l1 && !l2 && carry === 0) return null;
 
-    if(l1 === null && l2 === null && carry === 0){
-        return null;
-    }
-    var listNode = new ListNode(0);
-    var res = carry;
-    if(l1) res += l1.val;
-    if(l2) res += l2.val;
-
-    var value = res % 10;
-    listNode.val = value; 
+    var value = carry;
+    if(l1) value += l1.val;
+    if(l2) value += l2.val;
+    var res = value % 10;
+    var list = new ListNode();
+    list.val = res;
 
     if(l1 || l2){
-        var more = addNum( ( l1 === null ? null : l1.next)  ,
-                            ( l2 === null ? null : l2.next),
-                                (res > 9 ? 1 : 0));
-        listNode.next = more;
+        var more = addNum( ( l1 === null ? null : l1.next) 
+                            , (l2 === null ? null : l2.next)
+                            , ( value > 9 ? 1 : 0) )
+        list.next = more;
     }
 
-    return listNode;
+    return list;
+
 }
