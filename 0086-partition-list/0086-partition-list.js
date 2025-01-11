@@ -11,12 +11,12 @@
  * @return {ListNode}
  */
 var partition = function(head, x) {
-    if(!head) return head;
+    if(!head) return null;
     var dummy1 = new ListNode(0);
     var dummy2 = new ListNode(0);
-    var temp = head;
     var prev1 = dummy1;
     var prev2 = dummy2;
+    var temp = head;
 
     while(temp){
         if(temp.val < x){
