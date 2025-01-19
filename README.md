@@ -20,6 +20,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -41,6 +42,7 @@ My LeetCode traces
 | [0142-linked-list-cycle-ii](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
