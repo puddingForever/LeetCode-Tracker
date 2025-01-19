@@ -19,6 +19,7 @@ My LeetCode traces
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
@@ -83,5 +84,6 @@ My LeetCode traces
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
