@@ -85,14 +85,17 @@ My LeetCode traces
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
