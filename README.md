@@ -7,6 +7,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0001-two-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
