@@ -9,6 +9,7 @@ My LeetCode traces
 | [0001-two-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0001-two-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3582-find-indices-of-stable-mountains](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
 | ------- |
