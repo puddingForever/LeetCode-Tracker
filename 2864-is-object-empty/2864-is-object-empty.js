@@ -4,6 +4,8 @@
  */
 var isEmpty = function(obj) {
     
-    return Object.keys(obj).length > 0 ? false : true; 
+   for(let key in obj) return false;
 
+
+   return true;
 };
