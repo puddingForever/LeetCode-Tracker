@@ -5,13 +5,15 @@
 var once = function(fn) {
     
     let isCalled = false;
-
-    return function(...args){
-        if(isCalled) return undefined;
-        let result = fn(...args);
-        isCalled = true;
-
-        return result;
+    let result;
+    return (...args) => {
+        if(!isCalled){
+            result = fn(...args);
+            isCalled = true;
+            return result;
+        }else{
+            return undefined;
+        }
     }
 };
 
