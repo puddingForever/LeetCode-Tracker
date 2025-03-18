@@ -5,17 +5,21 @@
 var expect = function(val) {
 
     return {
-        toBe : (innerVal) =>  {
-                               if(val === innerVal) return true;
-
-                                throw Error('Not Equal');
-                             } ,
-        notToBe : (innerVal) => {
-                               if(val !== innerVal) return true;
-
-                                throw Error('Equal');
-                             } ,
+        x : val,
+        toBe : function(key){
+            if(this.x !== key){
+                throw new Error('Not Equal');
+            }
+            return true;
+        },
+        notToBe : function(key){
+            if(this.x === key){
+                throw new Error('Equal');
+            }
+            return true;
         }
+
+    }
 
 };
 
