@@ -4,12 +4,13 @@
  * @return {Array}
  */
 var chunk = function(arr, size) {
-   //arr = [1,9,6,3,2], size = 3
-   // [[1,9,6],[3,2]]
-  const chunkedArray = [];
-
-  for(let i=0; i<arr.length; i+=size){
-    chunkedArray.push(arr.slice(i,i+size));
-  }
-  return chunkedArray;
+  return arr.reduce((chunkedArray, element) => {
+    const lastChunk = chunkedArray[chunkedArray.length - 1];
+    if(!lastChunk || lastChunk.length === size){
+        chunkedArray.push([element]);
+    }else{
+        lastChunk.push(element);
+    }
+    return chunkedArray;
+  },[])
 };
