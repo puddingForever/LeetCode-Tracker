@@ -5,7 +5,7 @@
 async function sleep(millis) {
    let myPromise = new Promise(resolve => setTimeout(resolve,millis) )
 
-   return await myPromise
+   return myPromise
 }
 
 /** 
