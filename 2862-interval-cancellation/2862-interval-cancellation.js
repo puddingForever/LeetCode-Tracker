@@ -7,13 +7,10 @@
 var cancellable = function(fn, args, t) {
 
      fn(...args);
- 
+     
      let timer = setInterval(() => fn(...args),t);
-
-     const cancelFn = () => {
-            clearInterval(timer)
-     };
-
+     const cancelFn = () => clearInterval(timer);
+     
     return cancelFn;
 };
 
