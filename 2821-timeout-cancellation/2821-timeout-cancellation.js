@@ -12,7 +12,7 @@ var cancellable = function(fn, args, t) {
 
     const result = setTimeout(() => fn(...args),t);
     
-    return result && function cancelFn() {
+    return function cancelFn() {
         clearTimeout(result)
     }
 };
