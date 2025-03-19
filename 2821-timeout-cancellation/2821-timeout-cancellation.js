@@ -6,15 +6,15 @@
  */
 var cancellable = function(fn, args, t) {
     
-    // execute fn after delay of t 
-    // return a function cancel 
-    // stop the timeout of fn
-
-    const result = setTimeout(() => fn(...args),t);
-    
-    return function cancelFn() {
-        clearTimeout(result)
+    const cancelFn = function(){
+        clearTimeout(timer);
     }
+
+    const timer = setTimeout(() => {
+        fn(...args);
+    },t)
+
+    return cancelFn;
 };
 
 /**
