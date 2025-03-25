@@ -7,6 +7,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -16,6 +17,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
@@ -27,6 +29,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0387-first-unique-character-in-a-string) |
@@ -36,6 +39,7 @@ My LeetCode traces
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
 ## Prefix Sum
