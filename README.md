@@ -13,6 +13,7 @@ My LeetCode traces
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3582-find-indices-of-stable-mountains](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3582-find-indices-of-stable-mountains) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ My LeetCode traces
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
