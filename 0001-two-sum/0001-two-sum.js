@@ -2,19 +2,22 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
-
  */
 var twoSum = function(nums, target) {
-    var resArr = [];
-    var myMap = new Map();
-    for(var i=0; i<nums.length; i++){
-        var res = target - nums[i];
-        if(myMap.has(res) && myMap.get(res) !== i){
-            resArr.push(myMap.get(res));
-            resArr.push(i);
-             return resArr;
+    const sumObj = {};
+
+ 
+    // [3,2,4]
+    // { 3 : 0 , 2 : 1 ,   }
+    for(let i=0; i<nums.length; i++){
+        let num = nums[i]
+        let complement = target - num;
+        if(sumObj.hasOwnProperty(complement)){
+            return  [sumObj[complement],i];
         }
-        myMap.set(nums[i], i);
+        sumObj[num] = i;
     }
-    return resArr;
+
+    return [];
+    
 };
