@@ -10,6 +10,7 @@ My LeetCode traces
 | [0049-group-anagrams](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
+| [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3582-find-indices-of-stable-mountains](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3582-find-indices-of-stable-mountains) |
@@ -62,6 +63,7 @@ My LeetCode traces
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +121,8 @@ My LeetCode traces
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
