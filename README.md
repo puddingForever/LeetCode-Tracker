@@ -125,4 +125,8 @@ My LeetCode traces
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
