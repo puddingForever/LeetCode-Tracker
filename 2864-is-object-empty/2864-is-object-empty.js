@@ -4,8 +4,7 @@
  */
 var isEmpty = function(obj) {
     
-   for(let key in obj) return false;
+    for(let key in obj) return false;
 
-
-   return true;
+    return true;
 };
