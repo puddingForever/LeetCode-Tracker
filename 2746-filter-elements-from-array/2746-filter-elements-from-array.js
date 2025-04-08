@@ -4,16 +4,13 @@
  * @return {number[]}
  */
 var filter = function(arr, fn) {
+    let res = [];
 
-   let result = [];
+    for(let i=0; i<arr.length; i++){
+        if(fn(arr[i],i)) res.push(arr[i])
+    }
 
-   for(let i=0; i<arr.length; i++){
-       let isValid = fn(arr[i],i);
-       if(isValid){
-            result.push(arr[i]);
-       }
-   }
+    return res;
 
-   return result;
     
 };
