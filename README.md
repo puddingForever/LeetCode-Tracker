@@ -135,4 +135,16 @@ My LeetCode traces
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1908-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
