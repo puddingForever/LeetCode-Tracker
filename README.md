@@ -138,6 +138,7 @@ My LeetCode traces
 | [1801-average-time-of-process-per-machine](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Tree
 |  |
