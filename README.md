@@ -26,6 +26,7 @@ My LeetCode traces
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+| [1500-count-largest-group](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1500-count-largest-group) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
 |  |
@@ -92,6 +93,7 @@ My LeetCode traces
 | ------- |
 | [0002-add-two-numbers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1500-count-largest-group](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1500-count-largest-group) |
 ## Recursion
 |  |
 | ------- |
