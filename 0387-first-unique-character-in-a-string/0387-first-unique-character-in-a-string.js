@@ -3,15 +3,22 @@
  * @return {number}
  */
 var firstUniqChar = function(s) {
-    
-    let uniqObj = {};
-    for(let i=0; i<s.length; i++){
-        uniqObj[s[i]] =  (uniqObj[s[i]] || 0 ) + 1;
-    }
+  // store in obj 
+  // { character : cnt++ }
+  // character as a key , true 
+  // for - loop 
+  // find character that cnt is 1 
 
-    for(let i=0; i<s.length; i++){
-        if(uniqObj[s[i]] === 1) return i;
-    }
+   const dataObj = {};
+   for(let i=0; i<s.length; i++){
+    dataObj[s[i]] = dataObj[s[i]] === undefined ? [1,i] : ++dataObj[s[i]][0];
+   }
 
-    return -1;
+   const arr = Object.values(dataObj);
+   for(let i=0; i<arr.length; i++){
+    if(arr[i][0] === 1) return arr[i][1];
+   }
+
+   return -1;
+
 };
