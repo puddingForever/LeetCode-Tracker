@@ -7,6 +7,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
@@ -55,6 +56,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0142-linked-list-cycle-ii) |
