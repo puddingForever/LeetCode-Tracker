@@ -141,6 +141,7 @@ My LeetCode traces
 | [0626-exchange-seats](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0626-exchange-seats) |
 | [1153-product-sales-analysis-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1161-project-employees-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1415-students-and-examinations) |
