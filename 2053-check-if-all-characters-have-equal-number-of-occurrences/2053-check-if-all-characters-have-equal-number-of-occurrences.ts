@@ -6,15 +6,5 @@ function areOccurrencesEqual(s: string): boolean {
         obj[s[i]] = ( obj[s[i]] || 0 ) + 1;        
     }
 
-    let prev:undefined | number = undefined;
-
-    for(let key in obj){
-        let val:number = obj[key];
-        if(prev && prev !== val ) return false;
-        prev = val;
-    }
-
-
-
-    return true;
+    return new Set(Object.values(obj)).size === 1;
 };
