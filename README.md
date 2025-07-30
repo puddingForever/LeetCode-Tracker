@@ -11,6 +11,7 @@ My LeetCode traces
 | [0049-group-anagrams](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1635-number-of-good-pairs) |
@@ -201,4 +202,8 @@ My LeetCode traces
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
