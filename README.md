@@ -82,6 +82,7 @@ My LeetCode traces
 | [0053-maximum-subarray](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +105,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1635-number-of-good-pairs) |
@@ -114,6 +116,7 @@ My LeetCode traces
 | [0203-remove-linked-list-elements](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -194,4 +197,8 @@ My LeetCode traces
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
