@@ -1,52 +1,9 @@
-
-select month
-     , country
-     , trans_count
-     , approved_count
-     , trans_total_amount
-     , approved_total_amount 
-from (
-  select to_char(ot.trans_date,'YYYY-MM') as month 
-       , ot.country
-       , (
-            select count(*) 
-              from transactions t 
-             where to_char(t.trans_date,'YYYY-MM') = to_char(ot.trans_date,'YYYY-MM')
-               and (
-                     t.country = ot.country  OR 
-                     (t.country IS NULL AND ot.country IS NULL)
-                    )
-       ) as trans_count
-       , ( 
-            select count(*) 
-              from transactions t 
-             where t.state = 'approved' 
-               and to_char(t.trans_date,'YYYY-MM') = to_char(ot.trans_date,'YYYY-MM')
-                and (
-                     t.country = ot.country  OR 
-                     (t.country IS NULL AND ot.country IS NULL)
-                    ) 
-       ) as approved_count
-       , ( 
-            select NVL(sum(t.amount),0)
-              from transactions t 
-             where to_char(t.trans_date,'YYYY-MM') = to_char(ot.trans_date,'YYYY-MM')
-               and (
-                     t.country = ot.country  OR 
-                     (t.country IS NULL AND ot.country IS NULL)
-                    ) 
-       ) as trans_total_amount
-        , ( 
-            select NVL(sum(t.amount),0)
-              from transactions t 
-             where to_char(t.trans_date,'YYYY-MM') = to_char(ot.trans_date,'YYYY-MM')
-                and (
-                     t.country = ot.country  OR 
-                     (t.country IS NULL AND ot.country IS NULL)
-                    )  
-               and t.state = 'approved' 
-       ) as approved_total_amount 
-    from Transactions ot
-    group by to_char(ot.trans_date,'YYYY-MM')
-           , ot.country 
-);
+select to_char(trans_date,'YYYY-MM') as month 
+     , country 
+     , count(state) as trans_count
+     , count(case when state = 'approved' then 1 end) as approved_count
+     , sum(amount) as trans_total_amount
+     , sum(case when state = 'approved' then amount else 0 end) as approved_total_amount
+from Transactions
+group by to_char(trans_date,'YYYY-MM')
+       , country
