@@ -10,6 +10,7 @@ My LeetCode traces
 | [0026-remove-duplicates-from-sorted-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
@@ -58,6 +59,7 @@ My LeetCode traces
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -222,5 +224,10 @@ My LeetCode traces
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
