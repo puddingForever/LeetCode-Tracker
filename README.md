@@ -50,6 +50,7 @@ My LeetCode traces
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2235-capitalize-the-title](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2235-capitalize-the-title) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sorting
 |  |
