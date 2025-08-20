@@ -49,6 +49,7 @@ My LeetCode traces
 | [0387-first-unique-character-in-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1894-merge-strings-alternately](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2235-capitalize-the-title](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2235-capitalize-the-title) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -81,6 +82,7 @@ My LeetCode traces
 | [0344-reverse-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
