@@ -13,6 +13,7 @@ My LeetCode traces
 | [0075-sort-colors](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1319-unique-number-of-occurrences) |
@@ -238,4 +239,8 @@ My LeetCode traces
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
