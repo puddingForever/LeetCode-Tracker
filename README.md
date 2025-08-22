@@ -18,6 +18,7 @@ My LeetCode traces
 | [0643-maximum-average-subarray-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1319-unique-number-of-occurrences) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1635-number-of-good-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
