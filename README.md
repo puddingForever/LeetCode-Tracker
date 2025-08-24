@@ -15,6 +15,7 @@ My LeetCode traces
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0283-move-zeroes) |
+| [0495-teemo-attacking](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
@@ -165,6 +166,7 @@ My LeetCode traces
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0495-teemo-attacking) |
 | [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
 ## Database
 |  |
