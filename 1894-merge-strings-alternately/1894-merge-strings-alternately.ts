@@ -2,21 +2,16 @@ function mergeAlternately(word1: string, word2: string): string {
 
     if(word1.length === 1 && word2.length === 1){
         return word1[0] + word2[0];
-    }else if(word1.length === 0 && word2.length > 0){
-        return word2;
     }else if(word1.length > 0 && word2.length === 0){
-        return word1; 
+        return word1;
+    }else if(word2.length > 0 && word1.length === 0){
+        return word2;
     }
-    
-    let merged = "";
-    let res = "";
-    let firstStart = word1[0]; // a 
-    let secondStart = word2[0]; // b
-    
-    merged = firstStart + secondStart;
-    res = mergeAlternately(word1.slice(1),word2.slice(1));  // '' c , c 
-    
-    return merged + res; 
-    
+
+    let firstChar = word1[0];
+    let secondChar = word2[0];
+    let merged = firstChar + secondChar;
+    let res = mergeAlternately(word1.substr(1), word2.substr(1));
+    return merged + res;
 
 };
