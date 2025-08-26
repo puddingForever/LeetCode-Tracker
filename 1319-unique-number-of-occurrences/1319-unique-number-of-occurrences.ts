@@ -1,14 +1,16 @@
 function uniqueOccurrences(arr: number[]): boolean {
-
-   let obj = {};
-   // store in obj 
+    let obj = {};
+    var mySet = new Set()
+    
     for(let i=0; i<arr.length; i++){
         obj[arr[i]] = (obj[arr[i]] || 0) + 1;
     } 
+    
+    for(let cnt of Object.values(obj)){
+        if(mySet.has(cnt)) return false; // end early
+        mySet.add(cnt);
+    }
+    
 
-    // filter dups 
-    var mySet = new Set([...Object.values(obj)])
-
-   // if length is diff , then there's dups 
-    return mySet.size === Object.values(obj).length
+    return true;
 };
