@@ -1,12 +1,10 @@
 function uniqueOccurrences(arr: number[]): boolean {
-    var obj = {};
-
+   let obj = {};
     for(let i=0; i<arr.length; i++){
-        obj[arr[i]] = ( obj[arr[i]] || 0 ) + 1;
-    }
+        obj[arr[i]] = (obj[arr[i]] || 0) + 1;
+    } // [1,2,2,1,1,3] 
+    // obj = { 1 : 3 ,  2 : 2, 3 : 1 }
+    var mySet = new Set([...Object.values(obj)])
 
-    let original = Object.keys(obj).length;
-    let mySet = new Set(Object.values(obj));
-    
-    return original === mySet.size;
+    return mySet.size === Object.values(obj).length
 };
