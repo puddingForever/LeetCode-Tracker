@@ -44,6 +44,7 @@ My LeetCode traces
 | [1392-find-the-difference-of-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1500-count-largest-group](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
@@ -60,6 +61,7 @@ My LeetCode traces
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2235-capitalize-the-title](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2235-capitalize-the-title) |
@@ -71,6 +73,7 @@ My LeetCode traces
 | [0075-sort-colors](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1777-determine-if-two-strings-are-close) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -165,6 +168,7 @@ My LeetCode traces
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Simulation
 |  |
