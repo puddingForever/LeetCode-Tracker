@@ -1,17 +1,11 @@
 function closeStrings(word1: string, word2: string): boolean {
-    const charCounts1 = word1
-                        .split("")
-                        .reduce(
-                            (acc, val) => acc.set(val, (acc.get(val) ?? 0) + 1),
-                            new Map<string, number>()
-                        );
+    const charCounts1 = word1.split("")
+                        .reduce((acc, val) => acc.set(val, (acc.get(val) ?? 0) + 1),
+                            new Map<string, number>());
 
-    const charCounts2 = word2
-                        .split("")
-                        .reduce(
-                            (acc, val) => acc.set(val, (acc.get(val) ?? 0) + 1),
-                            new Map<string, number>()
-                        );
+    const charCounts2 = word2.split("")
+                        .reduce((acc, val) => acc.set(val, (acc.get(val) ?? 0) + 1),
+                            new Map<string, number>());
 
     if (
         charCounts1.size !== charCounts2.size ||
