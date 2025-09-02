@@ -61,6 +61,7 @@ My LeetCode traces
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -253,6 +254,7 @@ My LeetCode traces
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
 | ------- |
