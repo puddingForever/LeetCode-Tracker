@@ -8,12 +8,11 @@ function findMaxAverage(nums: number[], k: number): number {
     let tmp = max; 
     for(let i=k; i<nums.length; i++){ 
         tmp = tmp + nums[i] - nums[i-k]; // 52
-        console.log(tmp)
         max = Math.max(max,tmp);
     }
 
     return max/k;
-    
+
     
       
 };
