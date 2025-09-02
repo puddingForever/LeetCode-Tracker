@@ -1,20 +1,19 @@
 function findMaxAverage(nums: number[], k: number): number {
+
+    let max = 0;
+    for(let i=0; i<k; i++){
+        max += nums[i];
+    }
+   // console.log(max) 2 // 1,12,-5,-6
+    let tmp = max; 
+    for(let i=k; i<nums.length; i++){ 
+        tmp = tmp + nums[i] - nums[i-k]; // 52
+        console.log(tmp)
+        max = Math.max(max,tmp);
+    }
+
+    return max/k;
     
-       let init = 0
-       let max = -Infinity;
-
-       for(let i=0; i<k; i++){
-            init += nums[i]
-        }
-
-       max =  init/ k;
-
-      for(let i=k; i<nums.length; i++){
-            init = init + nums[i] - nums[i-k];
-            let localAvg = init/k;
-            max = Math.max(localAvg,max);
-       }    
-
-     return max;
     
+      
 };
