@@ -140,6 +140,7 @@ My LeetCode traces
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1635-number-of-good-pairs) |
+| [3830-find-closest-person](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
