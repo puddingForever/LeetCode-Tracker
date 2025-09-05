@@ -1,12 +1,13 @@
 function findDifference(nums1: number[], nums2: number[]): number[][] {
-    let set1 = new Set(nums1);
-    let set2 = new Set(nums2);
-    
-    // filter out only duplicates 
-    const only1 = [...set1].filter(num => !set2.has(num));
-    const only2 = [...set2].filter(num => !set1.has(num));
+ // 1. set으로 각각 넣은 후 
+  // 2. !set.has 인것만 array로 넣은 후  
+  // 3. 리턴한다.
+    const mySet1 = new Set(nums1);
+    const mySet2 = new Set(nums2);
 
-    return [only1,only2]
-    
+    let arr1 = [...mySet1].filter(num => !mySet2.has(num));
+    let arr2 = [...mySet2].filter(num => !mySet1.has(num));
+
+    return [arr1,arr2]
 
 };
