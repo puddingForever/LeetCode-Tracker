@@ -1,8 +1,8 @@
 function sortArray(nums: number[]): number[] {
     if(nums.length <=1) return nums;
-    let mid = Math.floor(nums.length/2);
-    let left = sortArray(nums.slice(0,mid));
-    let right = sortArray(nums.slice(mid));
+    const mid = Math.floor(nums.length/2);
+    const left = sortArray(nums.slice(0,mid));
+    const right = sortArray(nums.slice(mid));
     return merge(left,right)
 };
 
@@ -15,22 +15,13 @@ function merge(arr1:number[],arr2:number[]) : number[] {
         if(arr1[i] <= arr2[j]){
             res.push(arr1[i]);
             i++;
-        }else if(arr2[j] < arr1[i]){
+        }else{
             res.push(arr2[j]);
             j++
         }
     }
 
-    while(i < arr1.length){
-        res.push(arr1[i]);
-        i++;
-    }
 
-    while(j < arr2.length){
-        res.push(arr2[j]);
-        j++
-    }
-
-    return res;
+    return res.concat(arr1.slice(i)).concat(arr2.slice(j))
 }
 
