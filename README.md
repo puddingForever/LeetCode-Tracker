@@ -26,6 +26,7 @@ My LeetCode traces
 | [1392-find-the-difference-of-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1635-number-of-good-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -48,6 +49,7 @@ My LeetCode traces
 | [1500-count-largest-group](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2428-equal-row-and-column-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2428-equal-row-and-column-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -80,6 +82,7 @@ My LeetCode traces
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0948-sort-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +110,7 @@ My LeetCode traces
 | [0345-reverse-vowels-of-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
