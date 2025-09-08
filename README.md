@@ -25,6 +25,7 @@ My LeetCode traces
 | [1392-find-the-difference-of-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1635-number-of-good-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -47,6 +48,7 @@ My LeetCode traces
 | [1635-number-of-good-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2428-equal-row-and-column-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2428-equal-row-and-column-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
 |  |
@@ -178,6 +180,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0495-teemo-attacking) |
+| [2428-equal-row-and-column-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
 ## Database
 |  |
@@ -268,4 +271,8 @@ My LeetCode traces
 | [0011-container-with-most-water](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0605-can-place-flowers) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
