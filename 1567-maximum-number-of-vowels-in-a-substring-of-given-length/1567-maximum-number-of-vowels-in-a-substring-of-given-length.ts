@@ -7,13 +7,12 @@ function maxVowels(s: string, k: number): number {
        }
    }
 
-   if(max === k) return max;
-
    let tmp = max; 
    for(let j=k; j<s.length; j++){
-       if(mySet.has(s[j]) && !mySet.has(s[j-k])){
+       if(mySet.has(s[j])){
             tmp ++;
-        }else if(!mySet.has(s[j])  && mySet.has(s[j-k])){
+        }
+        if(mySet.has(s[j-k])){
             tmp --;
         }
         max = Math.max(tmp, max);
