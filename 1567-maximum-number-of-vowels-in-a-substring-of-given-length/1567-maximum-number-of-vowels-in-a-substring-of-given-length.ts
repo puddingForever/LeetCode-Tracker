@@ -1,32 +1,24 @@
 function maxVowels(s: string, k: number): number {
- const mySet = new Set(['a', 'e', 'i', 'o','u']);
-    let arr = s.split("")
-    let max = 0;
+   const mySet = new Set(['a','e','i','o','u'])
+    let max = 0; 
+   for(let i=0; i<k; i++){ 
+       if(mySet.has(s[i])){  
+           max++;
+       }
+   }
     
-    for(let i=0; i<k; i++){  // s = "leetcode", k = 3 
-        if(mySet.has(arr[i])){ 
-           max++; // 2
+  // 둘다 모음이 아니면 계산필요 X 
+    // 내가 모음이고 이전이 모음이면 계산 필요 X ( + 1 하고 - 1 하니까 )
+    // 내가 모음이고 이전이 모음이 아니면 + 1  
+   let tmp = max; 
+   for(let j=k; j<s.length; j++){
+       if(mySet.has(s[j]) && !mySet.has(s[j-k])){
+            tmp = tmp + 1; 
+        }else if(!mySet.has(s[j])  && mySet.has(s[j-k])){
+            tmp = tmp - 1;
+           console.log(s[j], tmp)
         }
+        max = Math.max(tmp, max);
     }
-    
-    let tmp = max;  
-    let cnt = 0;
-    for(let i=k; i<arr.length; i++){ // s = "le e  tcode", k = 3 
-         if(mySet.has(arr[i])){   
-               // 이전의 값이 vowel 이였을 때만 빼줘야한다. 
-             if(mySet.has(arr[i-k])){ 
-                 tmp = tmp + 1 - 1 ;
-             }else{
-                 tmp ++;   
-             }
-             
-             max = Math.max(max,tmp); 
-         }else{
-             if(mySet.has(arr[i-k])){ 
-                 tmp--;
-             }
-         }
-    } 
-
     return max;
 };
