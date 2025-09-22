@@ -33,6 +33,7 @@ My LeetCode traces
 | [2551-apply-operations-to-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3582-find-indices-of-stable-mountains](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3582-find-indices-of-stable-mountains) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
@@ -55,6 +56,7 @@ My LeetCode traces
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2428-equal-row-and-column-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2428-equal-row-and-column-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -186,6 +188,7 @@ My LeetCode traces
 | [1635-number-of-good-pairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |
 | ------- |
