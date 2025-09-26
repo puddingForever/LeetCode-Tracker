@@ -22,6 +22,7 @@ My LeetCode traces
 | [0495-teemo-attacking](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0948-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1319-unique-number-of-occurrences) |
@@ -97,6 +98,7 @@ My LeetCode traces
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/puddingForever/LeetCode-Tracker/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/3731-sum-of-variable-length-subarrays) |
