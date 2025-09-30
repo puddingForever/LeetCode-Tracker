@@ -49,6 +49,7 @@ My LeetCode traces
 | [0160-intersection-of-two-linked-lists](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -71,6 +72,7 @@ My LeetCode traces
 | [0168-excel-sheet-column-title](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0387-first-unique-character-in-a-string) |
