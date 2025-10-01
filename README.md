@@ -47,6 +47,7 @@ My LeetCode traces
 | [0141-linked-list-cycle](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0290-word-pattern) |
@@ -118,6 +119,7 @@ My LeetCode traces
 | [0142-linked-list-cycle-ii](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0344-reverse-string) |
@@ -160,6 +162,7 @@ My LeetCode traces
 | [0002-add-two-numbers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
