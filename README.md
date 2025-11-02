@@ -13,6 +13,7 @@ My LeetCode traces
 | [0049-group-anagrams](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0238-product-of-array-except-self) |
@@ -134,6 +135,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1013-fibonacci-number) |
