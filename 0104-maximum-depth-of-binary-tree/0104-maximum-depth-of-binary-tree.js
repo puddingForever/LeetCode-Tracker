@@ -11,33 +11,22 @@
  * @return {number}
  */
 var maxDepth = function(root) {
-   if (!root) return 0;
+    if(!root) return 0;
+    let leftLen = 1;
+    let rightLen = 1;
 
-    let leftLen = 1; 
-    let rightLen = 1; 
-    
-    function traverse(currentNode, len, isLeft){
-        // leaf면 결과 업데이트
+    function traverse(currentNode,len,isLeft){
         if(!currentNode.left && !currentNode.right){
-            if (isLeft) leftLen = Math.max(leftLen, len);
-            else rightLen = Math.max(rightLen, len);
+            if(isLeft) leftLen = Math.max(len,leftLen); 
+            else rightLen = Math.max(len,rightLen);
         }
-        
-        if(currentNode.left) {
-            traverse(currentNode.left, len + 1, isLeft); 
-        } 
-        if(currentNode.right){
-            traverse(currentNode.right, len + 1, isLeft);
-        } 
-    }
-    
-    if(root.left) {
-        traverse(root.left, leftLen + 1, true);
-    } 
-    
-    if(root.right){
-        traverse(root.right, rightLen + 1, false);
+
+        if(currentNode.left) traverse(currentNode.left, len + 1 , isLeft);
+        if(currentNode.right) traverse(currentNode.right, len + 1 , isLeft);
     }
 
-    return Math.max(leftLen, rightLen);
+    if(root.left) traverse(root.left, leftLen + 1 , true);
+    if(root.right) traverse(root.right, rightLen + 1 , false);
+
+    return Math.max(leftLen,rightLen);
 };
