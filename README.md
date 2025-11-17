@@ -192,12 +192,14 @@ My LeetCode traces
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -335,4 +337,8 @@ My LeetCode traces
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
