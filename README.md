@@ -268,14 +268,17 @@ My LeetCode traces
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0110-balanced-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -328,4 +331,8 @@ My LeetCode traces
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0948-sort-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
