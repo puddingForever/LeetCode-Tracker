@@ -272,16 +272,19 @@ My LeetCode traces
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0110-balanced-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0110-balanced-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0110-balanced-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0904-leaf-similar-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
