@@ -308,6 +308,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0374-guess-number-higher-or-lower) |
 ## Greedy
 |  |
 | ------- |
@@ -350,4 +351,8 @@ My LeetCode traces
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0783-search-in-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
