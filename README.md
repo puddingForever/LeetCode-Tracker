@@ -24,6 +24,7 @@ My LeetCode traces
 | [0605-can-place-flowers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0948-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1319-unique-number-of-occurrences) |
@@ -141,6 +142,7 @@ My LeetCode traces
 | [0053-maximum-subarray](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
