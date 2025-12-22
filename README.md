@@ -14,6 +14,7 @@ My LeetCode traces
 | [0053-maximum-subarray](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0238-product-of-array-except-self) |
@@ -364,4 +365,8 @@ My LeetCode traces
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
