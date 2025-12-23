@@ -146,6 +146,7 @@ My LeetCode traces
 | [0746-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1137-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
@@ -174,6 +175,7 @@ My LeetCode traces
 | [0171-excel-sheet-column-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -305,6 +307,7 @@ My LeetCode traces
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/puddingForever/LeetCode-Tracker/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
